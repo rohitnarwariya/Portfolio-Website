@@ -3,3 +3,4 @@ I built this portfolio website to present my projects and experience in a struct
 
 <img width="2000" height="1301" alt="image" src="https://github.com/user-attachments/assets/3775f4fd-736f-4560-9f75-29dbfb1e5953" />
 
+<img width="2000" height="1301" alt="image" src="https://github.com/user-attachments/assets/1bde2511-5ba4-41cb-ac04-2c367786eea0" />
